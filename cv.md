@@ -29,7 +29,10 @@ A2+
 ## Project 
 https://github.com/Xmnatali/rsschool-cv/blob/1ae8ccac9fd3d201f95ad82a92d920d57dc2d536/cv.md 
 ## Сode example
+```
 int multiply(int a, int b)
 {
    return a * b;
 } 
+```
+
