@@ -27,7 +27,7 @@ Higher education, graduated from the Belarusian University of Consumer Cooperati
 ## English
 A2+  
 ## Project 
-https://github.com/Xmnatali/rsschool-cv/blob/1ae8ccac9fd3d201f95ad82a92d920d57dc2d536/cv.md 
+https://github.com/Xmnatali/rsschool-cv/blob/72d8ddc779aa5489db5d45d94eda461fe1922223/cv.md
 ## Сode example
 ```
 int multiply(int a, int b)
